@@ -35,7 +35,7 @@ let curso = " script.js "
 // console.log(typeof funcionario);
 
 console.log(" a variavel nome tem " + nome +" e é  do tipo " + typeof nome);
-console.log(" a variavel peso tem " + sobrenome + " e é do tipo " + typeof peso);
+console.log(" a variavel peso tem " + sobrenome g+ " e é do tipo " + typeof peso);
 console.log(" a variavel altura tem " + idade +"  e  é do tipo " + typeof altura);
 console.log(" a variavel funcionario tem " + curso + " e é  do tipo " + typeof funcionario);
 
